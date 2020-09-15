@@ -677,6 +677,7 @@
     <string name="settings_general_title_drawer_items">Drawer Items</string>
     <string name="settings_general_subtitle_drawer_items">Select which drawer items to display</string>
     <string name="settings_moderation">Moderation</string>
+    <string name="settings_privacy_multitasking">Prevent preview from showing in Multitasking view.</string>
 
 
     <!-- Settings titles displayed in settings activity-->
@@ -695,6 +696,7 @@
     <string name="settings_title_comments">Comments</string>
     <string name="settings_title_filter">Filters</string>
     <string name="settings_title_font">Font</string>
+    <string name="settings_title_privacy">Privacy</string>
     <string name="settings_section_general">General</string>
     <string name="settings_section_appearance">Appearance</string>
     <string name="settings_section_other">Other</string>
@@ -881,6 +883,7 @@
     <!-- Setting subheaders -->
     <string name="sorting">Sorting</string>
     <string name="display">Display</string>
+    <string name="multitasking">Multitasking</string>
     <string name="image_downloads">Images</string>
     <string name="app_theme">App theme</string>
     <string name="tinting">Tinting</string>
